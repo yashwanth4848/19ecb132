@@ -13,5 +13,4 @@
 
 [add delete insert in single linked lists.c](https://github.com/yashwanth4848/19ecb132/blob/main/add_delete_insert_in_single_linked_lists.c)
 
-[binary tree.c](9https://github.com/yashwanth4848/19ecb132/blob/main/binary_tree.c)
 
