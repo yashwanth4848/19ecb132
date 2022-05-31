@@ -54,11 +54,16 @@ void insertAtEnd(struct Node** head_ref, int new_data) {
 }
 
 // Delete a node
-void deleteNode(struct Node** head_ref, int key) {
+void deleteNode(struct Node** head_ref, int key) 
+{
   struct Node *temp = *head_ref, *prev;
-
-  if (temp != NULL && temp->data == key) {
+  }
+if (temp != NULL && temp->data == key) 
+{
   *head_ref = temp->next;
   free(temp);
   return;
   }
+/*
+
+*/

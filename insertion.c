@@ -18,3 +18,6 @@ int main(void) {
     printf("%d\t", input[i]);
   return 0;  
 }
+/*
+
+*/
