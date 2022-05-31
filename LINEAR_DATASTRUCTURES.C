@@ -132,3 +132,31 @@ int main(void) {
     
   }
 }
+/*
+output:
+1. Stack using Array
+2. Queue using Array
+3. Stack using Linked List
+4. Queue using Linked List
+5. Exit from the program
+
+ Provide an option: 1
+
+***Creation of Stack using Array***
+ 1. Push     2. Pop      3. Display      4. Return to previous menu 
+ Choose an option: 2
+
+Stack underflow
+ 1. Push     2. Pop      3. Display      4. Return to previous menu 
+ Choose an option: 3
+
+No elements in the stack
+
+ 1. Push     2. Pop      3. Display      4. Return to previous menu 
+ Choose an option: 1
+
+Enter the element to be pushed to the stack: 4
+
+ 1. Push     2. Pop      3. Display      4. Return to previous menu 
+ Choose an option: 
+*/
